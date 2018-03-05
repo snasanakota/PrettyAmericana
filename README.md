@@ -1,2 +1,0 @@
-# PrettyAmericana
-Demo Site
